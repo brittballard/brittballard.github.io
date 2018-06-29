@@ -16,7 +16,7 @@
 title: Britt Ballard
 email: davidbritton.ballard@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Howdy
+  The personal webpage of Britt Ballard.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brittballard
